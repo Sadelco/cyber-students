@@ -6,5 +6,6 @@ MONGODB_HOST = {
 }
 
 MONGODB_DBNAME = 'cyberStudents'
+Encryption_Key = 'averylongkeymakesagoodkey'
 
 WORKERS = 32
